@@ -424,3 +424,37 @@ img-size {
   background-color: rgba(0,0,0,0.6);
   display: inline-block;
 }
+
+.background-sign-up {
+  background-image: url('../img/lebron.jpg');
+  background-size: cover;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.m-t-3 {
+  margin-top: 3rem;
+}
+
+.error {
+  color: #FF0000;
+  margin-bottom: 1rem;
+}
+
+.p-t-2 {
+  padding-top: 1.5rem;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.p-b-1 {
+  padding-bottom: 1rem;
+}
+
+.img-size {
+  max-height: 50vh;
+}
