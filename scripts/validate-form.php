@@ -32,7 +32,7 @@ $mail->SMTPAuth = true;
 $mail->Username = "maxwellluo97@gmail.com";
 
 //Password to use for SMTP authentication
-$mail->Password = "ilikepie345";
+$mail->Password = "";
 
 
 $success = "";
